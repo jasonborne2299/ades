@@ -64,7 +64,7 @@
 "version_build_player3":"2019020",
 "link_download_player3":"https://github.com/awedsa256/3242424/releases/download/2.20.9/2.20.9.apk",
 "package_name_player3":"com.player.bear",
-"force_download_player3_apk":true,
+"force_download_player3_apk":false,
 "banner_photo":"",
 "banner_link":"",
 "banner_text":"",
