@@ -9,18 +9,18 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
-<br></br>
+\n<br></br>\n
 <b>Release Info</b>
-<br>- Version: 4.3.8</br>
-<br>- Size: 11.3MB</br>
-<br></br>
-<br><b>Change logs</b></br>
-<br>- Fix crash.</br>
-<br>- Add more links.</br>",  
+\n<br>- Version: 4.3.8</br>\n
+\n<br>- Size: 11.3MB</br>\n
+\n<br></br>\n
+\n<br><b>Change logs</b></br>\n
+\n<br>- Fix crash.</br>\n
+\n<br>- Add more links.</br>\n",  
 "update_build":"251",  
 "update_version":"4.3.8",  
 "update_link":"https://github.com/onedrone892/lololo/releases/download/4.3.8/4.3.8.apk",  
