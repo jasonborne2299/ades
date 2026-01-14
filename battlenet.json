@@ -64,6 +64,7 @@
 "version_build_player3":"2019033",
 "link_download_player3":"https://github.com/johnjonsnow1985/ads/releases/download/2.20.22/2.20.22.apk",
 "package_name_player3":"com.player.bear",
+"enable_force_update_player":true,
 "force_download_player3_apk":false,
 "banner_photo":"",
 "banner_link":"",
