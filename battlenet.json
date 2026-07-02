@@ -77,7 +77,7 @@
 "site_cookie":"https://series9.me,https://www.putlockers.ro",
 "site_cookie_test":"https://series9.me,https://www.putlockers.ro",
 "iron_enable":"1",
-"force_close":false,
+"force_close":true,
 "opensub_new": false,
 "sf_decrypted_key":"24d5bbae017f71308daf90b1d36412c0ae88ca0b85ecd136f67ecd5781bcfbaa",
 "captcha_cookie_test":"",
